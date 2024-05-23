@@ -1,0 +1,1 @@
+Sample Chrome Extention config
